@@ -6,6 +6,7 @@
 </p>
 
 <div align="center">
+  <p>Profile view-count:</p>
   <img src="https://profile-counter.glitch.me/Sibhi33/count.svg?" alt="Profile view counter" />
 </div>
 <p align="center">
