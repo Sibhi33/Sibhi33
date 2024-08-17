@@ -2,9 +2,9 @@
   <img src="https://profile-counter.glitch.me/Sibhi33/count.svg?" alt="Profile view counter" />
 </div>
 
-<h2 align="center">Hi there! 👋 I'm Sibhikarunanithi</h2>
+<h2 align="center">Hola! this is Sibhikarunanithi</h2>
 <p align="center">
-  A passionate developer constantly exploring the world of code. Check out my work below!
+  A passionate developer  exploring the shades and likes of code. Check out my work below!
 </p>
 
 <div align="center">
@@ -46,10 +46,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sibhi33&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
-//<h3 align="center">🚀 My LeetCode Journey</h3>
-<div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=Sibhi33&theme=dark" height="150" alt="LeetCode Stats" />
-<!-- </div>// -->
 
 <h3 align="center">🌐 Connect with Me</h3>
 <div align="center">
