@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Permanent Marker', cursive; color: #f0f8ff;"> Hola, this is Sibhikarunanithi!</h1>
+<h1 align="center" style="font-family: 'Permanent Marker', cursive; color: #f0f8ff;"> Hey there, I'm Sibhikarunanithi!</h1>
 <p align="center" style="font-size: 1.2em;">
   A passionate coder living on the bleeding edge of the tech world. 
   I craft awesome things with code, and I'm always up for a challenge! 
