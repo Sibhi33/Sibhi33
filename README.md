@@ -46,15 +46,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sibhi33&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
-<h3 align="center">🚀 My LeetCode Journey</h3>
+//<h3 align="center">🚀 My LeetCode Journey</h3>
 <div align="center">
   <img src="https://leetcode-stats-six.vercel.app/api?username=Sibhi33&theme=dark" height="150" alt="LeetCode Stats" />
-</div>
-
-<h3 align="center">🐍 Snake Contribution Graph</h3>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sibhi33/Sibhi33/output/snake.svg" alt="Snake animation" />
-</div>
+<!-- </div>// -->
 
 <h3 align="center">🌐 Connect with Me</h3>
 <div align="center">
@@ -68,6 +63,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/leetcode/default.svg" width="52" height="40" alt="leetcode logo" />
   </a>
 </div>
-
-<h3 align="center">💡 Fun Fact</h3>
-<p align="center">I love coding challenges and solving algorithm problems on LeetCode!</p>
