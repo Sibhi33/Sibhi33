@@ -1,12 +1,11 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Sibhi33/count.svg?" alt="Profile view counter" />
-</div>
 
-<h2 align="center">Hola! this is Sibhikarunanithi</h2>
+<h1 align="center">Hola! this is Sibhikarunanithi</h1>
 <p align="center">
   A passionate developer  exploring the shades and likes of code. Check out my work below!
 </p>
-
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Sibhi33/count.svg?" alt="Profile view counter" />
+</div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Sibhi33/Sibhi33/main/assets/developer.gif" alt="Developer Animation" height="300" />
 </div>
