@@ -5,13 +5,12 @@
   </a>
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;Content-Writer;Prompt+Master;" alt="Typing SVG" />
 <div align="center">
   <p>Profile view-count:</p>
   <img src="https://profile-counter.glitch.me/Sibhi33/count.svg?" alt="Profile view counter" />
 </div>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;Content-Writer;Prompt+Master;" alt="Typing SVG" />
-
 </p>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Sibhi33/Sibhi33/main/assets/developer.gif" alt="Developer Animation" height="300" />
