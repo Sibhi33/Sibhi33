@@ -34,7 +34,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Sibhi33/Sibhi33/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
