@@ -15,7 +15,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Sibhi33/Sibhi33/main/assets/developer.gif" alt="Developer Animation" height="300" />
 </div>
-![Leetcode Stats](https://leetcard.sibhi3697/sibhi3697theme=dark)
+
 
 <h3 align="center">🛠️ Tech & Tools</h3>
 <div align="center">
