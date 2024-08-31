@@ -4,11 +4,6 @@
     <img width="12" />
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" alt="100days" />
     <img width="12" />
-    <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" alt="SQL" />
-    <img width="12" />
-    <img src="https://assets.leetcode.com/static_assets/public/images/badges/dcc-2024-7.png" alt="JUl2024lbadge" />
-    <img width="12" />
-    <img src="https://assets.leetcode.com/static_assets/public/images/badges/dcc-2024-6.png" alt="100days" />
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
