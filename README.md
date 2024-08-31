@@ -1,6 +1,9 @@
 
 <p align="center">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="Typing SVG" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="50days" />
+    <img width="12" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" alt="100days" />
+    
   </a>
 </p>
 <p align="center">
