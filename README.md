@@ -1,11 +1,5 @@
 
 <p align="center">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="50days" />
-    <img width="12" />
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" alt="100days" />
-    <img width="12" />
-</p>
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F729B1&center=true&random=false&width=435&lines=Hi+there;I'm+Sibhi" alt="Typing SVG" />
   </a>
@@ -23,7 +17,7 @@
 </div>
 
 
-<h3 align="center">🛠️ Tech & Tools</h3>
+<h3 align="center"> Tech & Tools 🛠️</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
@@ -52,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="40" alt="Safari logo" />
 </div>
 
-<h3 align="center">📈 GitHub Stat</h3>
+<h3 align="center"> GitHub Stat 📈</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sibhi33&show_icons=true&theme=radical&hide_border=false" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sibhi33&layout=compact&theme=radical&hide_border=false" height="150" alt="Top Languages" />
