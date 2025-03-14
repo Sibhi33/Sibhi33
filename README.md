@@ -51,7 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Sibhi33&show_icons=true&theme=radical&hide_border=false" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sibhi33&layout=compact&theme=radical&hide_border=false" height="150" alt="Top Languages" />
 </div>
-
 <h3 align="center">Connect ? Maybe</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/sibhi-k-900b4b246/" target="_blank">
