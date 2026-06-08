@@ -6,7 +6,7 @@
 ```
  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
  ▌  SIBHI KARUNANITHI  //  PRODUCT × ENGINEERING × DATA  ▐
- ▌  TECHNICAL TRAINEE @ ZOHO  //  CS '26 — SKCT           ▐
+ ▌  TECHNICAL SUPPORT ENGINEER @ ZOHO  //  CS '26 — SKCT           ▐
  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 ```
 
